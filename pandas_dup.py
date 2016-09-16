@@ -14,6 +14,9 @@ print(pd.get_option('display.max_columns'))
 pd.set_option('display.max_columns', 60)
 print(pd.get_option('display.max_columns'))
 
+print ("kako si")
+
+
 
 
 # cols = ['Route', 'Pickup Date/Time', 'Delivery Date/Time', 'Truck', 'Driver 1']
